@@ -6,7 +6,7 @@ Official Solana-based token of Erus Holdings Corp.
 Designed for capital raising, liquidity generation, and long-term utility.
 
 ## 📄 Whitepaper
-[📥 Download the REGOS Whitepaper (PDF)](https://github.com/erus-holdings/regos-token/raw/main/REGOS_Whitepaper.pdf)
+[📥 Download the REGOS Whitepaper (PDF)](REGOS_Whitepaper.pdf)
 
 ## 📊 Token Information
 - **Blockchain:** Solana
