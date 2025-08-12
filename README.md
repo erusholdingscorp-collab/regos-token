@@ -13,7 +13,7 @@ Designed for capital raising, liquidity generation, and long-term utility.
 - **Token Type:** SPL
 - **Total Supply:** 1,000,000,000 REGOS
 - **Decimals:** 6
-- **Contract Address:** (To be added after creation)
+- **Contract Address:** (TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA)
 
 ## 📧 Contact
 regostoken@gmail.com
