@@ -2,31 +2,18 @@
   "name": "Regos",
   "symbol": "REG",
   "description": "Regos (Latin: King) is a Solana-based digital asset created by Erus Holdings Corp. It represents a vision of strength, growth, and long-term value across crypto, real estate, and venture acquisitions.",
-  "image": "https://github.com/erusholdingscorp-collab/regos-token/blob/main/IMG_8774.png",
+  "image": "https://raw.githubusercontent.com/erusholdingscorp-collab/regos-token/main/IMG_8774.png",
   "seller_fee_basis_points": 0,
   "attributes": [
-    {
-      "trait_type": "Category",
-      "value": "Utility Token"
-    },
-    {
-      "trait_type": "Blockchain",
-      "value": "Solana"
-    },
-    {
-      "trait_type": "Issued By",
-      "value": "Erus Holdings Corp"
-    }
+    { "trait_type": "Category", "value": "Utility Token" },
+    { "trait_type": "Blockchain", "value": "Solana" },
+    { "trait_type": "Issued By", "value": "Erus Holdings Corp" }
   ],
   "extensions": {
     "twitter": "https://x.com/regostoken",
-    "whitepaper": "https://github.com/erusholdingscorp-collab/regos-token/blob/main/REGOS_Whitepaper.pdf"
+    "whitepaper": "https://raw.githubusercontent.com/erusholdingscorp-collab/regos-token/main/REGOS_Whitepaper.pdf"
   },
-  "tags": [
-    "regos",
-    "erus",
-    "token",
-    "crypto",
-    "solana"
-  ]
+  "external_url": "https://x.com/regostoken",
+  "standard": "ft",
+  "tags": ["regos", "erus", "token", "crypto", "solana"]
 }
